@@ -273,12 +273,12 @@ msgstr ""
 # e3b7d7c793af44c0a4c71596691268d7
 #: ../source/indexes.txt:175
 msgid "Index Properties"
-msgstr ""
+msgstr "索引属性"
 
 # 9f1ff8291ae64bc78aeaa9e168232ec7
 #: ../source/indexes.txt:178
 msgid "Unique Indexes"
-msgstr ""
+msgstr "唯一索引"
 
 # dc75b9aefa294247a593dea7dd369544
 #: ../source/indexes.txt:180
@@ -292,7 +292,7 @@ msgstr ""
 # dcae40f88f034e79911d2ee7758d9362
 #: ../source/indexes.txt:186
 msgid "Partial Indexes"
-msgstr ""
+msgstr "部分索引"
 
 # d2c397e55ff4449ea1e7891d703b2fbd
 #: ../source/indexes.txt:190
@@ -314,7 +314,7 @@ msgstr ""
 # 0d2e262151194dec8177aed6ca69e6b6
 #: ../source/indexes.txt:200
 msgid "Sparse Indexes"
-msgstr ""
+msgstr "稀疏索引"
 
 # 79074e531b9c4f6d95acc741b8274da7
 #: ../source/indexes.txt:202
@@ -335,7 +335,7 @@ msgstr ""
 # 25b307b3dd2346a182fbf4d788eb5251
 #: ../source/indexes.txt:211
 msgid "TTL Indexes"
-msgstr ""
+msgstr "TTL索引"
 
 # e3cf4293f19245d7acb4423cd19f5f15
 #: ../source/indexes.txt:213
@@ -355,7 +355,7 @@ msgstr ""
 # 5afc380cfc514e9fb2f49c6fd793c1ab
 #: ../source/indexes.txt:222
 msgid "Index Use"
-msgstr ""
+msgstr "索引的使用"
 
 # 9231e481431c4953bb73225118857e9a
 #: ../source/indexes.txt:224
